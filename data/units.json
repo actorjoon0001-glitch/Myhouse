@@ -1,0 +1,62 @@
+[
+  {
+    "id": "living",
+    "name": "거실동",
+    "shortName": "거실",
+    "size": [6, 3],
+    "area": 5.4,
+    "price": 28000000,
+    "color": "#d9b382",
+    "description": "전면 통창이 있는 거실 유닛. 집의 중심이 되는 기본 유닛입니다."
+  },
+  {
+    "id": "bedroom",
+    "name": "침실동",
+    "shortName": "침실",
+    "size": [3, 3],
+    "area": 2.7,
+    "price": 15000000,
+    "color": "#a8c5a0",
+    "description": "퀸 침대와 붙박이장이 들어가는 표준 침실 유닛입니다."
+  },
+  {
+    "id": "kitchen",
+    "name": "주방동",
+    "shortName": "주방",
+    "size": [3, 3],
+    "area": 2.7,
+    "price": 19000000,
+    "color": "#e0a48e",
+    "description": "싱크·조리대·냉장고 자리가 포함된 주방 유닛. 거실동 옆 배치를 추천합니다."
+  },
+  {
+    "id": "bath",
+    "name": "욕실동",
+    "shortName": "욕실",
+    "size": [2, 3],
+    "area": 1.8,
+    "price": 14000000,
+    "color": "#9fc0cf",
+    "description": "샤워부스와 세면대·양변기가 포함된 방수 일체형 욕실 유닛입니다."
+  },
+  {
+    "id": "study",
+    "name": "서재동",
+    "shortName": "서재",
+    "size": [3, 2],
+    "area": 1.8,
+    "price": 12000000,
+    "color": "#c5b8d9",
+    "description": "재택근무·취미 공간으로 쓰는 소형 유닛. 침실동 옆 확장에 적합합니다."
+  },
+  {
+    "id": "deck",
+    "name": "데크동",
+    "shortName": "데크",
+    "size": [3, 2],
+    "area": 1.8,
+    "price": 6000000,
+    "color": "#b9a58c",
+    "description": "지붕 없는 외부 목재 데크. 거실동 전면에 붙이면 마당이 생깁니다."
+  }
+]

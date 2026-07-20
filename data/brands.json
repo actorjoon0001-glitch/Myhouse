@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hanul",
+    "name": "하눌하우스",
+    "slogan": "자연을 담는 모듈러 주택",
+    "location": "경기 양평",
+    "logoColor": "#2f6f4f"
+  },
+  {
+    "id": "ondol",
+    "name": "온돌스페이스",
+    "slogan": "한국형 프리미엄 모듈러",
+    "location": "충남 천안",
+    "logoColor": "#b05a2a"
+  },
+  {
+    "id": "cubix",
+    "name": "큐빅스홈",
+    "slogan": "미니멀 큐브 하우징",
+    "location": "경남 김해",
+    "logoColor": "#3b5bdb"
+  },
+  {
+    "id": "soom",
+    "name": "숨 스테이",
+    "slogan": "세컨하우스 · 스테이 전문",
+    "location": "강원 홍천",
+    "logoColor": "#6d5bd0"
+  },
+  {
+    "id": "dawon",
+    "name": "다원건축",
+    "slogan": "합리적인 가격의 고성능 주택",
+    "location": "전북 완주",
+    "logoColor": "#c2255c"
+  }
+]
